@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone – HTML & CSS Frontend Project
+<img width="1892" height="1032" alt="amazon-homepage-1" src="https://github.com/user-attachments/assets/1aa15b0c-cb07-4cc6-8cda-b9351ddfacef" /># 🛒 Amazon Clone – HTML & CSS Frontend Project
 A simple **Amazon homepage clone** built using **HTML and CSS**.  
 This project focuses on recreating the look and layout of Amazon’s UI to practice frontend development and responsive design concepts.
 
@@ -22,11 +22,11 @@ This project focuses on recreating the look and layout of Amazon’s UI to pract
 
 ## 📸 Screenshots
 
-<img width="1892" height="1032" alt="Amazon Clone Screenshot 1" src="https://github.com/user-attachments/assets/37c8d3a6-683c-432d-bbfe-953619a37acf" />
+<img width="1892" height="1032" alt="amazon-homepage-1" src="https://github.com/user-attachments/assets/458675c2-6d84-4c63-9610-e6f549ba9e19" />
 
-<img width="1889" height="1011" alt="Amazon Clone Screenshot 2" src="https://github.com/user-attachments/assets/327cb612-0274-41f0-9233-1a7b1825eb21" />
+<img width="1889" height="1011" alt="amazon-homepage-2" src="https://github.com/user-attachments/assets/4aaa7b2c-10ca-4e52-a4d1-6b9230f9960e" />
 
-<img width="1885" height="1036" alt="Amazon Clone Screenshot 3" src="https://github.com/user-attachments/assets/fb5ad10e-54ad-4d61-ac62-a614b195a2ca" />
+<img width="1885" height="1036" alt="amazon-homepage-3" src="https://github.com/user-attachments/assets/69b70515-2549-47f5-9e6f-e871409ed577" />
 
 ---
 
