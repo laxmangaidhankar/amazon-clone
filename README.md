@@ -21,14 +21,16 @@ This project focuses on recreating the look and layout of Amazon’s UI to pract
 ---
 
 ## 📸 Screenshots
-```
+
 <img width="1892" height="1032" alt="amazon-homepage-1" src="https://github.com/user-attachments/assets/458675c2-6d84-4c63-9610-e6f549ba9e19" />
+**Homepage – Top Section**
 
 <img width="1889" height="1011" alt="amazon-homepage-2" src="https://github.com/user-attachments/assets/4aaa7b2c-10ca-4e52-a4d1-6b9230f9960e" />
+**Homepage – Product Sections**
 
 <img width="1885" height="1036" alt="amazon-homepage-3" src="https://github.com/user-attachments/assets/69b70515-2549-47f5-9e6f-e871409ed577" />
-```
----
+**Homepage – Footer Section**
+
 
 ## 📂 Project Structure
 
